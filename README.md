@@ -1,5 +1,7 @@
 # Code accompanying Hasnain, Birnbaum et al, Nature Neuroscience 2024
 
+[Read the preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.23.554474v3.full)
+
 ## Data
 Data can be downloaded from Zenodo (DOI: 10.5281/zenodo.13941415)
 
